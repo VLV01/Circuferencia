@@ -22,7 +22,7 @@ public class Program3 {
 		System.out.printf("Circumference: %.2f%n", c);
 		System.out.printf("Volume: %.2f%n", v);
 		System.out.printf("PI value: %.2f%n", Calculator2.PI); /* duas casas decimais*/
-		
+		System.out.println("TESTE");
 		
 		sc.close();
 	}
